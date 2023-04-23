@@ -46,7 +46,7 @@ h2, h4 {
   display : inline-block;
   width : 50%;
   height : 100%;
-  padding : 2.9%;
+  padding : 5%;
 }
 
 #bottomRightSection {
@@ -55,7 +55,7 @@ h2, h4 {
   display : inline-block;
   width : 50%;
   height : 100%;
-  padding : 2.5%;
+  padding : 5%;
 }
 
 
@@ -97,6 +97,11 @@ button:hover {
 
 #bottomLeftSection h4 {
   margin-bottom : 15px;
+  font-size : 1.2rem;
+}
+
+#bottomRightSection h4 {
+  font-size : 1.2rem;
 }
 
 #priceDuration, #price {
