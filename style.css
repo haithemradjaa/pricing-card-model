@@ -23,6 +23,7 @@ h2, h4 {
   box-shadow: 5px 10px 15px -1px rgba(0,0,0,0.3);
   border-radius : 5px;
   overflow : hidden;
+  margin : auto;
 }
 
 #topSection {
